@@ -1,2 +1,2 @@
 # 5liza
-University project in C#. It's like tic tac toe, but 5 times better
+University project in C#. It's a 5x5 tic tac toe game.
